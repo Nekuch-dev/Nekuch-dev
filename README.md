@@ -21,7 +21,7 @@
 ##
 
 <div align="left">
-  <a href="https://www.youtube.com/channel/UC_" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UC_-www.youtube.com/@elle_Sanca" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" target="_blank"></a>
   <a href="https://instagram.com/elle._.sanca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" target="_blank"></a>
   <a href="https://www.twitch.tv/elle._.sanca" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="35" target="_blank"></a>
   <a href="https://www.linkedln.com/in/Nayelle Fonseca-45875016a" target="_blank"><img src="https://img.shields.io/badge/-Linkedln-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height= "35" target="_blank"></a> 
