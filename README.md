@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nekuch-py&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nekuch-py&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=neon&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
@@ -21,7 +21,6 @@
 ##
 
 <div align="left">
-  <a href="https://www.youtube.com/www.youtube.com/@elle_Sanca" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" target="_blank"></a>
   <a href="https://instagram.com/elle._.sanca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" target="_blank"></a>
   <a href="https://www.twitch.tv/elle._.sanca" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="35" target="_blank"></a>
   <a href="https://www.linkedln.com/in/Nayelle Fonseca-45875016a" target="_blank"><img src="https://img.shields.io/badge/-Linkedln-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height= "35" target="_blank"></a> 
