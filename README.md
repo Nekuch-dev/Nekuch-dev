@@ -23,8 +23,6 @@
 <div align="left">
   <a href="https://instagram.com/elle._.sanca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" target="_blank"></a>
   <a href="https://www.twitch.tv/v_iollet" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="35" target="_blank"></a>
-  <a href="https://www.linkedln.com/in/Nayelle Fonseca-45875016a" target="_blank"><img src="https://img.shields.io/badge/-Linkedln-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height= "35" target="_blank"></a> 
-  <a href="Outlook:nnayelle@outlook.coom target="_blank"><img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=Outlook&logoColor=White" height="35" target=_blank"></a>
 </div>
 
 ###
