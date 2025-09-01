@@ -1,10 +1,10 @@
 <!-- Parte inferior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=header"/>
 
 ---
 <div align="center">
   
-## <h3>Eu sou Nayelle Fonseca</h3>
+## <h3> 🍂 Eu sou Nayelle Fonseca 🍂 </h3>
  👩🏻‍💻 Sou uma estudante que ama tecnologia.<br>
  ⚡ Cursando Ánalise e Desenvolvimento de Sistemas na UNIT-PE<br>
 </div>
@@ -53,6 +53,7 @@
 ---
 
 <!-- Parte inferior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
