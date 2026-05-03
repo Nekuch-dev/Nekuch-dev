@@ -28,13 +28,15 @@
 <div align="center"> 
   <a href="https://instagram.com/Nek_uch" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:nnayelle@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=Outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Nayelle-Fonseca-16015024b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/Nayelle-Fonseca-16015024b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
 <div align="center">
-![gif](https://i.pinimg.com/originals/99/74/cd/9974cd41cc1c45a1e5f664e625c2ea36.gif)
+<img width="500" height="231" alt="f83a4efbc6a0c8ae00719f71e885d225" src="https://github.com/user-attachments/assets/c8ac6502-d61b-4229-a99a-9905c41ab434"/>)
 </div>
+
+
+
 
 ---
 
