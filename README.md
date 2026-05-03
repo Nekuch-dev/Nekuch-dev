@@ -7,6 +7,7 @@
 ## <h3> 🍂 Eu sou Nayelle Fonseca 🍂 </h3>
  👩🏻‍💻 Sou uma estudante que ama tecnologia.<br>
  ⚡ Cursando Ánalise e Desenvolvimento de Sistemas na UNIT-PE<br>
+ 🤖 Atualmente no 3° período<br>
 </div>
 
    <!-- Distintivos de Linguagens e Habilidades -->
