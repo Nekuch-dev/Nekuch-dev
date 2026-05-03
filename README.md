@@ -1,5 +1,5 @@
 <!-- Parte superior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=Ffb6c1&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF7DD6&height=120&section=header"/>
 
 ---
 <div align="center">
@@ -8,13 +8,6 @@
  👩🏻‍💻 Sou uma estudante que ama tecnologia.<br>
  ⚡ Cursando Ánalise e Desenvolvimento de Sistemas na UNIT-PE<br>
 </div>
-
-<!-- <div align="center">
-  <a href="https://github.com/Nekuch-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nekuch-dev&theme=neon&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekuch-dev&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div> -->
-
 
    <!-- Distintivos de Linguagens e Habilidades -->
 <div style="display: inline_block" align="center"><br>
@@ -39,16 +32,14 @@
   
 </div>
 
-<picture align="center" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nekuch-dev/Nekuch-dev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nekuch-dev/Nekuch-dev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nekuch-dev/Nekuch-dev/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+![gif](https://pin.it/7CtdcOJOP)
+</div>
 
 ---
 
 <!-- Parte inferior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=Ffb6c1&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF7DD6&height=120&section=footer"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
