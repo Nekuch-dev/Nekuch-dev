@@ -7,7 +7,7 @@
 **Nayelle Fonseca**
 🎓 ADS Student • 🔐 Cybersecurity • 📊 Observability
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00A63C?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nayelle_fonseca)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00A63C?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/nayelle-fonseca)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=00ff88)](https://github.com/Nekuch-dev)
 
 </div>
