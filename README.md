@@ -42,10 +42,10 @@ I use this profile to document my learning, academic projects and experiments wh
   <img alt="Nekuch-Win" src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0">&nbsp;
   <img alt="Nekuch-git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">&nbsp;
   <img alt="Nekuch-figma" src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma">&nbsp;
-  <img alt="Nekuch-vscode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;
+  <img alt="Nekuch-Vscode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;
+  <img alt="Nekuch-Eclipse" src="https://img.shields.io/badge/Eclipse-3836fe.svg?style=for-the-badge&logo=Eclipse&logoColor=white">&nbsp; 
   <img alt="Nekuch-postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">&nbsp;
   <img alt="Nekuch-Dynatrace" src="https://img.shields.io/badge/Dynatrace-8A00C4.svg?style=for-the-badge&logo=Dynatrace&logoColor=white">&nbsp;
-  
 </div>
  <br>
  
